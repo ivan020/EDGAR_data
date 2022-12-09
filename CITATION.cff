@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "This code was used to get data from EDGAR SEC in python dict"
+authors:
+	- family-names: Evdokimov
+	  given-names: Ivan
+	  orcid: https://orcid.org/0000-0002-8900-2584
+title: "EDGAR_data"
+version: 1.0
+doi: 10.5281/zenodo.7418203
+date-released: 2022-12-09
