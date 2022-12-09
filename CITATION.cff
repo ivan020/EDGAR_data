@@ -1,10 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "This code was used to get data from EDGAR SEC in python dict"
+title: EDGAR_data
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-	- family-names: Evdokimov
-	  given-names: Ivan
-	  orcid: https://orcid.org/0000-0002-8900-2584
-title: "EDGAR_data"
-version: 1.0
-doi: 10.5281/zenodo.7418203
-date-released: 2022-12-09
+  - given-names: Ivan
+    family-names: Evdokimov
+    email: ie20391@essex.ac.uk
+    affiliation: University of Essex
+    orcid: 'https://orcid.org/0000-0002-8900-2584'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7418203
+repository-code: 'https://github.com/ivan020/EDGAR_data'
+abstract: >-
+  This is the code for getting data from EDGAR SEC to
+  python dictionary
+license: MIT
+version: v1.0
+date-released: '2022-12-09'
